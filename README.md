@@ -15,9 +15,11 @@
 ## 说明：
 
 1️⃣URL填写的是图床的API接口需要加http(s)
+
 例如 `https://example.com/api/v1`
 
 2️⃣Token是你获取的token，只需填获取到的token即可
+
 例如 `7|UnCpiaEXqHH1HrmFGMoTRRkH7LMJd7CPE`
 
 3️⃣储存策略ID是你选择要上传的的存储策略的id，在存储策略页面即可看到
